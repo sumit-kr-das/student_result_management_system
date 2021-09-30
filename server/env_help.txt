@@ -1,0 +1,5 @@
+port_no = 8000
+db_connection = mongodb://localhost:27017/student
+token_key = sfddgfjkjkjkjkmkdkdkfdfjhighhdbhuhhhasdadsnihjffojfnknf
+client_mail = enter your email(off 2-Step Verification)
+client_password = enter your password
